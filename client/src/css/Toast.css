@@ -1,0 +1,51 @@
+.Toast-blue {
+ width: 291px;
+	height: 33px;
+  border-radius: 34px;
+  padding: 7px 20px 9px 41px;
+  font-size: 14;
+  font-family: 'HelveticaNeueMedium';
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	background: #4990e2;
+}
+
+.Toast-yellow {
+ width: 291px;
+	height: 33px;
+  border-radius: 34px;
+  padding: 7px 20px 9px 41px;
+  font-size: 14;
+  font-family: 'HelveticaNeueMedium';
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	background: #ffba3f;
+}
+
+.Toast-warning {
+ width: 291px;
+	height: 33px;
+  border-radius: 34px;
+  padding: 7px 20px 9px 41px;
+  font-size: 14;
+  font-family: 'HelveticaNeueMedium';
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	background: #e69816;
+}
+
+.Toast-danger {
+ width: 291px;
+	height: 33px;
+  border-radius: 34px;
+  padding: 7px 20px 9px 41px;
+  font-size: 14;
+  font-family: 'HelveticaNeueMedium';
+	color: #fff;
+	line-height: 20px;
+	text-align: center;
+	background: #a90418;
+}

@@ -1,0 +1,40 @@
+.around-circle {
+  border: 6px solid black;
+  box-shadow: 0 0 2px #888;
+}
+
+.circle-blue {
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	font-size: 20px;
+	color: #fff;
+	line-height: 45px;
+	text-align: center;
+	background: #4990e2;
+	opacity: 0.5;
+}
+
+.circle-red {
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	font-size: 20px;
+	color: #fff;
+	line-height: 45px;
+	text-align: center;
+	background: #d0011b;
+	opacity: 0.5;
+}
+
+.circle-yellow {
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	font-size: 20px;
+	color: #fff;
+	line-height: 45px;
+	text-align: center;
+	background: #f6a623;
+	opacity: 0.5;
+}
